@@ -1,10 +1,11 @@
-# Variables, Array and Strings
+# Variables, Strings & Methods
 
 name = 'John Doe '
 
 puts name.reverse
+puts name.length
 puts name.upcase
+puts name.downcase
 
-puts '*********** Printing name 5 times **********'
-puts name * 5
+
 
