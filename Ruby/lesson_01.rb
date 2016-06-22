@@ -7,3 +7,4 @@ puts name.reverse
 puts name.length
 puts name.upcase
 puts name.downcase
+
