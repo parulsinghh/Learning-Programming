@@ -1,5 +1,5 @@
 #Ruby day 7
-#Itertion over hashes
+#Iteration over hashes
 
 family_members = {
   "Robert" => "Father",
@@ -11,3 +11,4 @@ family_members = {
  family_members.each do |x , y|
   puts "#{x}: #{y}"
 end
+
