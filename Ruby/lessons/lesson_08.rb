@@ -15,6 +15,7 @@ frequencies.each { |word, frequency| puts "#{word} - #{frequency}" }
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -23,3 +24,5 @@ frequencies.each { |word, frequency| puts "#{word} - #{frequency}" }
 
 
 >>>>>>> d1a7113... histogram
+=======
+>>>>>>> 8b4860d... histogram
