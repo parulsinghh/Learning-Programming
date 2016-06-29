@@ -10,6 +10,7 @@ frequencies = frequencies.sort_by { |word, frequency| frequency }
 frequencies.reverse!
 frequencies.each { |word, frequency| puts "#{word} - #{frequency}" }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 
@@ -26,3 +27,5 @@ frequencies.each { |word, frequency| puts "#{word} - #{frequency}" }
 >>>>>>> d1a7113... histogram
 =======
 >>>>>>> 8b4860d... histogram
+=======
+>>>>>>> 6c1bbd9... histogram
