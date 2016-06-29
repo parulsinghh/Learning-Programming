@@ -13,10 +13,3 @@ frequencies.each { |word, frequency| puts "#{word} - #{frequency}" }
 
 
 
-
-
-
-
-
-
-
