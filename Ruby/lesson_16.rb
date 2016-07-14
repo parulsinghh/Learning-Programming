@@ -10,7 +10,7 @@ class Person
   end
 
   def description
-  puts "My full name is #{@first_name} #{@last_name}."
+  puts "My full name is #{@first_name} #{@last_name}"
   end
 end
 
