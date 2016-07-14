@@ -1,5 +1,6 @@
 # Ruby lesson 16
 # Class
+# Simple form
 
 class Person
   attr_writer :first_name, :last_name
