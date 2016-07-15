@@ -23,5 +23,5 @@ class Email < Message
  end
 
 my_message = Message.new("Roxy", "Lucy")
-my_message = Message.new("Eric", "James")
+my_message = Message.new("Eric", "John")
 
