@@ -1,4 +1,4 @@
-#ruby day 6
+#ruby lesson 6
 # Print even numbers using next loop
 
 for i in 1..20

@@ -1,4 +1,4 @@
-#Ruby day 7
+#Ruby lesson 7
 #Iteration over hashes
 
 family_members = {

@@ -1,4 +1,4 @@
-# Ruby day 3
+# Ruby lesson 3
 # if, else & elsif 
 
 print 'Enter a = '

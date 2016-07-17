@@ -1,4 +1,4 @@
-# Ruby day 1
+# Ruby lesson 1
 # Variables, Strings & Methods
 
 name = 'John Doe '

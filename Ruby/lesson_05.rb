@@ -1,4 +1,4 @@
-# Ruby day 5
+# Ruby lesson 5
 # While loop
 
 i = 0

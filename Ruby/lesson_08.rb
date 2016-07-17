@@ -1,4 +1,4 @@
-# Ruby day 8
+# Ruby lesson 8
 # Histogram
 
 puts "Text please: "

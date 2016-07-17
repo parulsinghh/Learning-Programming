@@ -1,4 +1,4 @@
-# Ruby day 9
+# Ruby lesson 9
 # Building own method
 
 def alphabetize(arr, rev=false)

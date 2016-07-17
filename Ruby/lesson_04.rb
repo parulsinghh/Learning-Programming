@@ -1,4 +1,4 @@
-# Ruby day 4
+# Ruby lesson 4
 # gsub 
 
 print "Please enter you input "
