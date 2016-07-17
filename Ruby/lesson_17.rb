@@ -1,5 +1,5 @@
 # Ruby lesson 17
-# Inheritance, Globel variable
+# Inheritance & Globel variable
 
 class Message
   @@messages_sent = 0
