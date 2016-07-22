@@ -1,4 +1,7 @@
 # Ruby lesson 19
+# File create class
+# => params: { username, password }
+# => returns: "#{filename} was created by #{@username} at #{time}".
 
 class Computer
   @@users = {}

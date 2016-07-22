@@ -1,4 +1,6 @@
-
+# Ruby
+# Banking account class
+# => Params: { name, balance }
 
 class Account
   attr_reader :name
